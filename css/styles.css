@@ -257,6 +257,8 @@ background-color: var(--heading-color);
   display:flex;
   gap: 24px;
   justify-content: center;
+  padding-bottom: 72px;
+  padding-top: 96px;
 }
 .filter-button-item {
   
@@ -298,6 +300,7 @@ background-color: var(--accent-color);
   flex-wrap: wrap;
   row-gap: 48px;
   column-gap: 24px;
+  padding-bottom: 120px;
 }
 .port-pics-item {
 }
@@ -307,6 +310,11 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: var(--heading-color);
+margin-top: 32px;
+margin-left: 16px;
 }
 .port-pics-text {
+  margin-top: 8px;
+  margin-bottom: 32px;
+  margin-left: 16px;
 }
