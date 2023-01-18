@@ -336,10 +336,7 @@ background-color: var(--accent-color);
 }
 
 .port-pics-descr {
-margin-top: 32px;
-margin-right: 16px;
-margin-bottom: 32px;
-margin-left: 16px;
+margin: 32px 16px;
 border: 1px solid #E7E9FC;
 }
 .port-pics-title {
